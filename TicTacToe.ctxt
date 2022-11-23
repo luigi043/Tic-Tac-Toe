@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment0.text=\ \r\n\ Escola\ Superior\ de\ Tecnologia\ e\ Gest\u00E3o\ do\r\n\ Instituto\ Polit\u00E9cnico\ de\ Beja\r\n\ em\ 2022/11/22\r\n\ -----------------------------------------------------\r\n\ @author\ Luiz\ Carlos\ Morais\ Fehlberg\ \r\n\ @version\ 2022/11/18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ startGameMenu()
+comment3.params=
+comment3.target=int\ gameOptions()
+comment4.params=gameBoard
+comment4.target=void\ playerVsPlayer(char[][])
+comment5.params=gameBoard
+comment5.target=void\ playerVsPc(char[][])
+comment6.params=gameBoard
+comment6.target=void\ printGameBoard(char[][])
+comment7.params=number
+comment7.target=int\ verifyInput(int)
+comment8.params=gameBoard\ pos\ user
+comment8.target=void\ placement(char[][],\ int,\ java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ checkWinner()
+numComments=10
